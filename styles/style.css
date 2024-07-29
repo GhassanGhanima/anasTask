@@ -210,6 +210,9 @@ a{
     color: var(--primary) !important;
     background-color: white !important;
 }
+.text-md{
+  font-size: 14px;
+}
 .text-small{
     font-size: 11px;
 }
@@ -291,3 +294,10 @@ a{
     display: none !important;
 
   }
+  .activity-img{
+    height: 280px;
+    width: 100%;
+    object-fit: cover;
+  }
+
+  
