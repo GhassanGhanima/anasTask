@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="30px" height="30px" viewBox="0 0 30 30" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>Contact (icon)</title>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="AJIAD-HOME" transform="translate(-1387.000000, -1484.000000)" fill="#FFFFFF" fill-rule="nonzero">
+            <g id="Contact" transform="translate(1364.000000, 1468.000000)">
+                <g id="Contact-(icon)" transform="translate(23.000000, 16.000000)">
+                    <path d="M30,25.2806318 L25.2861964,29.994436 C18.8144471,29.995887 12.3422744,27.5277224 7.40449366,22.5899417 C2.4696162,17.6550038 0.00145164802,11.1874279 0,4.7194287 L4.7194287,2.23820962e-13 L11.1584554,6.43902675 L6.95974499,10.6377372 C6.96047082,13.8108583 8.17132673,16.983798 10.5923732,19.4048445 C13.0148108,21.8272821 16.1899885,23.038138 19.3649846,23.0374727 L23.5609128,18.8415446 L30,25.2806318 Z" id="Path"></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
